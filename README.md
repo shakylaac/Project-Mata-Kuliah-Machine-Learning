@@ -1,14 +1,15 @@
-# Prediksi Customer Churn pada Data Telekomunikasi Menggunakan XGBoost dan Support Vector Machine #
-
-Anggota Kelompok: 
-1. Shakyla Andhara Chandraningtyas (24031554199)
-2. Desnanty Ratna Aulia (24031554163)
-3. Fajria Rasmi Ridha Rumkel (24031554191)
+# Prediksi Customer Churn pada Data Telekomunikasi Menggunakan XGBoost dan Support Vector Machine
 
 ## Deskripsi Proyek
 Proyek ini membahas penerapan *machine learning* untuk memprediksi *customer churn* pada data telekomunikasi. *Customer churn* merupakan kondisi ketika pelanggan berhenti menggunakan layanan yang disediakan oleh suatu perusahaan.
 Prediksi churn dapat membantu perusahaan memahami karakteristik pelanggan yang berpotensi berhenti berlangganan sehingga dapat menjadi bahan pertimbangan dalam menyusun strategi retensi pelanggan.
 Dalam proyek ini, dua algoritma yang digunakan adalah **XGBoost** dan **Support Vector Machine (SVM)**. Keduanya diterapkan untuk membangun model prediksi churn dan dianalisis untuk mengetahui kemampuan masing-masing model dalam mengklasifikasikan pelanggan.
+
+## Dataset
+- **Nama Dataset:** Telco Customer Churn Data
+- **Sumber:** [Kaggle – Telco Customer Churn Data](https://www.kaggle.com/datasets/dhrubangtalukdar/telco-customer-churn-data)
+- **Deskripsi:** Dataset berisi informasi pelanggan telekomunikasi yang dapat digunakan untuk menganalisis karakteristik pelanggan dan memprediksi kemungkinan terjadinya churn.
+- **Tujuan Penggunaan:** Dataset digunakan untuk eksplorasi data, preprocessing, pembangunan model klasifikasi, serta evaluasi dan perbandingan performa XGBoost dan SVM.
 
 ## Tujuan Proyek
 1. Memahami karakteristik data pelanggan telekomunikasi.
